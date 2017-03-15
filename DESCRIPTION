@@ -1,0 +1,15 @@
+Package: blocks
+Type: Package
+Title: Package for Organizing Code into Functional Blocks
+Version: 1.0.0
+Date: 2017-03-14
+Depends:
+    R (>= 3.0.0),
+Imports:
+    digest
+Author: Andrew Hannigan
+Maintainer: Andrew Hannigan <andrew.s.hannigan@gmail.com>
+Description: Package for Organizing Code into Functional Blocks
+License: LGPL-3
+LazyLoad: yes
+RoxygenNote: 6.0.1
